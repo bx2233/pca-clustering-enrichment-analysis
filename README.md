@@ -6,7 +6,7 @@ I use dimensionality reduction (PCA), k-means, and enrichment testing (Fisher’
 to identify clusters and statistically significant group differences.
 
 ## Data
--- **RNA-Seq longitudinal expression dataset:** mouse cortical development gene expression measured at **8 developmental time points** (−8, −4, 0, 1, 7, 16, 21, 28).
+- **RNA-Seq longitudinal expression dataset:** mouse cortical development gene expression measured at **8 developmental time points** (−8, −4, 0, 1, 7, 16, 21, 28).
 - **Zika microcephaly gene set:** curated list of Zika-associated genes mapped into the longitudinal expression matrix for focused analysis.
 
 ## Methods
