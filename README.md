@@ -20,4 +20,4 @@ to identify clusters and statistically significant group differences.
 - Sensitivity checks 
 
 ## Report
-- [Project report (PDF)](reports/zika_project_report.pdf)
+- [Project report (PDF)](zika_project_report.pdf)
